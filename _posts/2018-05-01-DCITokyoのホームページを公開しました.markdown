@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "DCITokyoのホームページを公開しました"
+date:   2018-05-01 01:03:59 +0900
+categories: DCITokyo
+---
+Lean Architecture / DCIを継続して学習する意欲を持つ人々により結成されたグループです。
+
+Coplien氏、Gertrud氏のトークセッションや講演のサポートに加えて、Lean Architecre/DCIに関する情報の集積や発信を企図しています。
+
+どうぞよろしくお願いします

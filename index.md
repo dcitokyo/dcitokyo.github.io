@@ -5,5 +5,3 @@
 layout: home
 list_title: 記事一覧
 ---
-## ご挨拶
-私達は
